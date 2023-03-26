@@ -1,0 +1,61 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    background-image: url('космофон2.jpg'); 
+}
+.d1{
+    display: flex;
+margin-left: 310px;
+margin-top: 20px;
+
+}
+header{
+    display: flex;
+    width: 1920px;
+    background-color: #030D17;
+    color: white;
+}
+.logo{
+    width: 150px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 20px;
+}
+img{
+margin-top:15px ;
+}
+nav{
+    margin-left: 40px;
+}
+a{
+    color: #6993C6;
+    text-decoration: none;
+}
+.main{
+    width: 350px; height: auto;
+    background-color: #061826;
+    margin-top: 0px;
+    padding: 20px;
+    color: white;
+}
+.img1{
+    height: 800px; width: 900px;
+   
+    
+}
+footer{
+    background-color: #030D17;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+.f1{
+
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pink{
+    display: flex;
+}
